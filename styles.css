@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+}
+td>ol{
+	list-style:none;
+}
+td>p{
+	text-align:center;
+}
